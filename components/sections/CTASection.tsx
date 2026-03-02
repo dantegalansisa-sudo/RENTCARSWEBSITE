@@ -40,13 +40,13 @@ export default function CTASection() {
             <Button
               variant="primary"
               size="lg"
-              href="https://wa.me/18098800802?text=Hola,%20me%20interesa%20rentar%20un%20auto"
+              href="https://wa.me/18298553429?text=Hola,%20me%20interesa%20rentar%20un%20auto"
             >
               Reservar Ahora
             </Button>
-            <Button variant="outline" size="lg" href="tel:+18098800802">
+            <Button variant="outline" size="lg" href="tel:+18298553429">
               <Phone size={18} className="mr-2" />
-              (809) 880-0802
+              (829) 855-3429
             </Button>
           </div>
         </motion.div>

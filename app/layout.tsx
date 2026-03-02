@@ -17,7 +17,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "ABC-Z Rent Cars | Renta de Autos en República Dominicana",
+  title: "Calvovn Rent Cars | Renta de Autos en República Dominicana",
   description:
     "Renta el auto de tus sueños en República Dominicana. Más de 150 vehículos disponibles, servicio 24/7, precios transparentes. Santo Domingo y Santiago.",
   keywords: [
@@ -26,10 +26,10 @@ export const metadata: Metadata = {
     "alquiler de carros",
     "rent a car",
     "Santo Domingo",
-    "ABC-Z Rent Cars",
+    "Calvovn Rent Cars",
   ],
   openGraph: {
-    title: "ABC-Z Rent Cars | Renta de Autos Premium en RD",
+    title: "Calvovn Rent Cars | Renta de Autos Premium en RD",
     description:
       "Tu compañero de viaje en República Dominicana. Autos modernos, precios justos.",
     type: "website",

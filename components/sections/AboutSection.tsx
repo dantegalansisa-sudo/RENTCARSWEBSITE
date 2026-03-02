@@ -37,7 +37,7 @@ export default function AboutSection() {
                 Somos líderes en renta
                 <br />
                 de autos en{" "}
-                <span className="text-[var(--color-accent)]">ABC-Z.</span>
+                <span className="text-[var(--color-accent)]">Calvovn.</span>
               </h2>
 
               <p className="mt-8 text-[var(--color-text-secondary)] font-[family-name:var(--font-dm-sans)] text-base md:text-lg leading-relaxed max-w-lg">

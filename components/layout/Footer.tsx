@@ -40,8 +40,8 @@ export default function Footer() {
           {/* Brand Column */}
           <div>
             <h3 className="font-[family-name:var(--font-bebas-neue)] text-3xl tracking-wider text-white mb-5">
-              ABC-Z{" "}
-              <span className="text-[var(--color-accent)]">RENT CARS</span>
+              Calvovn{" "}
+              <span className="text-[var(--color-accent)]">Rent Cars</span>
             </h3>
             <p className="text-[var(--color-text-secondary)] font-[family-name:var(--font-dm-sans)] text-sm leading-relaxed mb-6">
               Tu compañero de viaje en República Dominicana. Autos modernos,
@@ -116,10 +116,10 @@ export default function Footer() {
                   className="text-[var(--color-accent)] shrink-0"
                 />
                 <a
-                  href="tel:+18098800802"
+                  href="tel:+18298553429"
                   className="text-[var(--color-text-secondary)] hover:text-white font-[family-name:var(--font-dm-sans)] text-sm transition-colors"
                 >
-                  (809) 880-0802
+                  (829) 855-3429
                 </a>
               </li>
               <li className="flex items-center gap-3">
@@ -128,10 +128,10 @@ export default function Footer() {
                   className="text-[var(--color-accent)] shrink-0"
                 />
                 <a
-                  href="mailto:info@abczrentcars.com"
+                  href="mailto:info@calvovnrentcars.com"
                   className="text-[var(--color-text-secondary)] hover:text-white font-[family-name:var(--font-dm-sans)] text-sm transition-colors"
                 >
-                  info@abczrentcars.com
+                  info@calvovnrentcars.com
                 </a>
               </li>
               <li className="flex items-center gap-3">
@@ -150,7 +150,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-[var(--color-text-muted)] font-[family-name:var(--font-dm-sans)] text-xs">
-            © 2025 ABC-Z Rent Cars. Todos los derechos reservados.
+            © 2025 Calvovn Rent Cars. Todos los derechos reservados.
           </p>
           <div className="flex gap-6">
             <a

@@ -47,8 +47,8 @@ export default function Navbar() {
           {/* Logo */}
           <a href="#inicio" className="flex items-center gap-1">
             <span className="font-[family-name:var(--font-bebas-neue)] text-2xl tracking-wider text-white">
-              ABC-Z{" "}
-              <span className="text-[var(--color-accent)]">RENT CARS</span>
+              Calvovn{" "}
+              <span className="text-[var(--color-accent)]">Rent Cars</span>
             </span>
           </a>
 
